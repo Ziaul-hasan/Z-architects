@@ -107,3 +107,48 @@ main{
     line-height: 1.5em;
     margin-bottom: 10px;
 }
+/* our attribute section styles */
+.attribute{
+    padding: 130px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.attribute-content{
+    width: 40%;
+    padding-right: 60px;
+}
+.attribute-title{
+    padding: 10px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #131313;
+    border-left: 5px solid #FF900E;
+}
+.attribute-img{
+    width: 60%;
+}
+.attribute-img img{
+    width: 100%;
+}
+.attribute-info{
+    font-size: 16px;
+    font-weight: 300;
+    color: #727272;
+}
+.box{
+    margin: 20px 0;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px lightgray;
+}
+.attribute-subtitle{
+    font-size: 20px;
+    font-weight: 600;
+    color: #131313;
+}
+.attribute-detail{
+    font-size: 14px;
+    font-weight: 300;
+    color: #727272;
+}
