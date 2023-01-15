@@ -426,7 +426,7 @@ main{
     .attribute-subtitle{
         font-size: 18px;
     }
-    .attribute-detail{
+    .attribute-detail , .short-text{
         font-size: 12px;
     }
     .big-button{
